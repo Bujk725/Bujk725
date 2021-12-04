@@ -1,16 +1,15 @@
-### Hi there 👋
+[TR]
 
-<!--
-**Bujk725/Bujk725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Merhaba, Ben Burak Özlece
 
-Here are some ideas to get you started:
+👀 Oyun yapımınına, Web Geliştirmeye, Siber Güvenliğe ile ilgileniyorum
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Şu anda Oyun yapımı, Web Geliştirme, Siber Güvenlik öğreniyorum
+
+[EN]
+
+👋 Hi, I’m Burak Özlece
+
+👀 I’m interested in Making Games, Web Developer, Cyber Security
+
+🌱 I’m currently learning Making Games, Web Development, Cyber Security
